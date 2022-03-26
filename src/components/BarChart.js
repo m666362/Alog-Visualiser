@@ -49,11 +49,6 @@ const BarChart = () => {
           },
         }}
       />
-      <div>
-        <button onClick={()=>{
-          state.setData([10, 20, 50, 80, 40, 60, 50, 12, 45, 75, 15])
-        }}>Change Data</button>
-      </div>
     </div>
   )
 }
