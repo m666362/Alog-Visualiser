@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alog-Visualiser/static/css/main.0db4f0ba.chunk.css",
+    "main.js": "/Alog-Visualiser/static/js/main.09f6335a.chunk.js",
+    "main.js.map": "/Alog-Visualiser/static/js/main.09f6335a.chunk.js.map",
+    "runtime-main.js": "/Alog-Visualiser/static/js/runtime-main.ce308a83.js",
+    "runtime-main.js.map": "/Alog-Visualiser/static/js/runtime-main.ce308a83.js.map",
+    "static/js/2.be1cf53b.chunk.js": "/Alog-Visualiser/static/js/2.be1cf53b.chunk.js",
+    "static/js/2.be1cf53b.chunk.js.map": "/Alog-Visualiser/static/js/2.be1cf53b.chunk.js.map",
+    "index.html": "/Alog-Visualiser/index.html",
+    "precache-manifest.327d96cd24c7edc8142e3c00640ab079.js": "/Alog-Visualiser/precache-manifest.327d96cd24c7edc8142e3c00640ab079.js",
+    "service-worker.js": "/Alog-Visualiser/service-worker.js",
+    "static/css/main.0db4f0ba.chunk.css.map": "/Alog-Visualiser/static/css/main.0db4f0ba.chunk.css.map",
+    "static/js/2.be1cf53b.chunk.js.LICENSE.txt": "/Alog-Visualiser/static/js/2.be1cf53b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce308a83.js",
+    "static/js/2.be1cf53b.chunk.js",
+    "static/css/main.0db4f0ba.chunk.css",
+    "static/js/main.09f6335a.chunk.js"
+  ]
+}
